@@ -7,7 +7,7 @@
 <div align="center">
   <a href="[https://github.com/rafaballerini](https://github.com/William-Soliman)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-soliman&count_private=true&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-soliman&layout=compact&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
